@@ -1,0 +1,2 @@
+# MujBinec
+Testovaci repozitar
