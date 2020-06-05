@@ -8,3 +8,4 @@ sw2.Write("\"" + radekpole[index] + "\",");
                 sw2.Write("\"" + zeme + "\",");
                 sw2.Write("\"" + radekpole[index+8] + "\",");
                 sw2.Write("\"" + radekpole[index+9] + "\",");
+ddd
